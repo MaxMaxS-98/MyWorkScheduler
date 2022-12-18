@@ -1,5 +1,5 @@
 # MyWorkDayScheduler
-Link to deployed application:
+Link to deployed application: https://maxmaxs-98.github.io/MyWorkScheduler/
 
 
 
